@@ -7,6 +7,7 @@
 - [Naman Goyal] (https://github.com/namangoyal172)
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Aaron Lebel] (https://github.com/alebml)
+- [Vaibhav Raj] (https://github.com/vaibhavraj10)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
